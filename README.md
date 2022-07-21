@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hillwanjiru
-- 👀 I’m interested in front end development...
+- 👀 I’m a front end developer
 - 🌱 I’m currently learning Javascript...
 - 💞️ I’m looking to collaborate on newbie projects to polish my coding skills and learn more.
 - 📫 How to reach me...hillwanjiru@gmail.com
